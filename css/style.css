@@ -1,0 +1,21 @@
+html{
+    height: 1080px;
+}
+
+body{
+    height: 100%;
+}
+
+header{
+    background-image: url("../img/pattern.png");
+    background-color: rgb(112, 163, 250);
+    height: 16%;
+}
+
+header > img{
+    height: 50%;
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+
