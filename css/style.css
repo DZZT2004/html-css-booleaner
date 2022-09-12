@@ -19,3 +19,20 @@ header > img{
     left: 10px;
 }
 
+h1{
+    font-size: 65px;
+    position: relative;
+    top: -20px;
+}
+
+.autore{
+    position:relative;
+    top: -60px;
+    left: 10px;
+    font-size: 20px;
+    color: grey;
+}
+
+.autore > span{
+    color: rgb(93, 193, 255);
+}
