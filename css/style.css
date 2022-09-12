@@ -1,9 +1,11 @@
 html{
     height: 1080px;
+    width: 1920px;
 }
 
 body{
     height: 100%;
+    width: 100%;
 }
 
 header{
@@ -43,4 +45,69 @@ h1{
 
 .img2{
     width: 42.75%;
+}
+
+.lorem{
+    font-size: 26px;
+    width: 95%;
+
+}
+
+li{
+    font-size: 22px;
+    position: relative;
+    left: -18px;
+}
+
+.sinistra{
+    position: relative;
+    text-align: left;
+}
+
+.centro{
+    position: relative;
+    text-align: left;
+    width: 25%;
+}
+
+.destra{
+    text-align: left;
+    position: relative;
+    width: 50%;
+}
+
+table{
+    width: 100%;
+    font-size: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+
+tbody{
+    width: 100%;
+}
+thead{
+    width: 100%;
+}
+
+.tr1{
+    background-color:rgb(105, 169, 209);
+    color: white;
+}
+.tr2, .tr4{
+    background-color:lightblue;
+}
+
+.td{
+    border: none;
+}
+
+.lorem2{
+    font-size: 24px;
+}
+
+footer > span{
+    color: grey;
+    font-size: 24px;
+    font-weight: bold;
 }
